@@ -1,0 +1,14 @@
+
+Ë
+*temporal/server/api/clock/v1/message.prototemporal.server.api.clock.v1"]
+VectorClock
+shard_id (RshardId
+clock (Rclock
+
+cluster_id (R	clusterId"l
+HybridLogicalClock
+
+wall_clock (R	wallClock
+version (Rversion
+
+cluster_id (R	clusterIdB*Z(go.temporal.io/server/api/clock/v1;clockbproto3
